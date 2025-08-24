@@ -33,6 +33,8 @@ I began my coding journey in 2021 (10th grade), and since then, I’ve become pa
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![RTK Query](https://img.shields.io/badge/-RTK_Query-764ABC?logo=redux&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 
 ### 🧠 Backend  
@@ -53,11 +55,34 @@ I began my coding journey in 2021 (10th grade), and since then, I’ve become pa
 
 ---
 
+
+### Featured Projects
+- [![Kuraz](https://img.shields.io/badge/Kuraz-Frontend-blue?style=for-the-badge)](https://github.com/Jho-08/personal-budget-tracker-saas-front)  
+  **Kuraz Budget Tracker SaaS** — 💻 Frontend Project Leader & Programmer  
+  *Tech stack:* React.js, Redux, RTK Query, Tailwind CSS, ShadCN
+
+- [![Echofy](https://img.shields.io/badge/Echofy-Backend-green?style=for-the-badge)](https://github.com/UNESCO-HACKATHON/Echofy_Backend)  
+  **Echofy MIT** — 🧠 Backend Developer  
+  *Tech stack:* FastAPI, REST API, HTTP APIs
+
+- [See all my contributions](https://github.com/bella-247?tab=contributions) 🚀
+
+
+
+---
+
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bella-247&show_icons=true&theme=github_dark)
 
 ---
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=bella-247&theme=dark&hide_border=true)
+
+
+
+
+
 
 ## 🧠 Platforms & Competitive Programming
 
