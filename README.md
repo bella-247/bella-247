@@ -19,7 +19,7 @@ I began my coding journey in 2021 (10th grade), and since then, I’ve become pa
 - 💻 Building responsive web apps using **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React.js**
 - 🧠 Backend development with **Django**, **Node.js**, and **MySQL**
 - 🧪 Certified in **Problem Solving**, **Python**, **CSS**, and **Programming Fundamentals**
-- 🚀 Web Development Intern at **Prodigy InfoTech**
+- 🚀 Web Development Intern at **Kuraz Intership**, **Prodigy InfoTech**
 - 🧩 Active on **LeetCode** and **HackerRank** solving algorithmic challenges
 - 🛠️ Contributing to open-source projects on GitHub
 
